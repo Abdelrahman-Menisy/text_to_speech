@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-rembg
-Pillow
+gtts
+python-multipart
